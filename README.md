@@ -1,4 +1,4 @@
-The code for the manuscript entitled “FedTriCSL: Federated Causal Structure Learning via Support–Uncertainty Guided Three-Way Decisions”, submitted to Information Sciences, will be publicly released upon acceptance.
+The code for the manuscript entitled “FedTriCSL: Federated Causal Structure Learning via Support–Uncertainty Guided Three-Way Decisions”, submitted to Neurocomputing, will be publicly released upon acceptance.
 
 ## Environment
 
