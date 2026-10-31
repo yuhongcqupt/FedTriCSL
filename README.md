@@ -1,4 +1,4 @@
-The code for the manuscript entitled “FedTriCSL: Federated Causal Structure Learning via Support–Uncertainty Guided Three-Way Decisions”, submitted to Neurocomputing, will be publicly released upon acceptance.
+The code for the manuscript entitled “Three-Way Edge Decisions for Federated Causal Structure Learning with Heterogeneous Variable Sets”, submitted to Neurocomputing, will be publicly released upon acceptance.
 
 ## Environment
 
